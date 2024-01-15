@@ -1,0 +1,9 @@
+.socialShareButtons {
+    text-align: center;
+    padding: 20px;
+}
+
+.socialShareButtons button {
+    margin: 5px;
+    padding: 10px;
+}

@@ -1,0 +1,20 @@
+.registrationForm {
+    padding: 20px;
+    text-align: center;
+}
+
+.registrationForm form {
+    margin: auto;
+    max-width: 300px;
+}
+
+.registrationForm input {
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0;
+}
+
+.registrationForm button {
+    width: 100%;
+    padding: 8px;
+}

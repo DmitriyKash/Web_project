@@ -1,0 +1,12 @@
+.reviewsPage {
+    padding: 20px;
+    text-align: center;
+}
+
+.reviewsPage h1 {
+    color: #333;
+}
+
+.reviewsPage p {
+    color: #666;
+}

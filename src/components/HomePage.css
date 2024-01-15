@@ -1,0 +1,11 @@
+.homePage h1 {
+    color: #333;
+}
+
+.homePage p {
+    color: #666;
+}
+.homePage {
+    text-align: center;
+    padding: 20px;
+}

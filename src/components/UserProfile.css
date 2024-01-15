@@ -1,0 +1,12 @@
+.userProfile {
+    padding: 20px;
+    text-align: center;
+}
+
+.userProfile h1, .userProfile h2 {
+    color: #333;
+}
+
+.userProfile p, .userProfile li {
+    color: #666;
+}

@@ -1,0 +1,20 @@
+.editProfile {
+    padding: 20px;
+    text-align: center;
+}
+
+.editProfile form {
+    margin: auto;
+    max-width: 300px;
+}
+
+.editProfile input {
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0;
+}
+
+.editProfile button {
+    width: 100%;
+    padding: 8px;
+}

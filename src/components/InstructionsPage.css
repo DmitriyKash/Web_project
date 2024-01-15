@@ -1,0 +1,12 @@
+.instructionsPage {
+    padding: 20px;
+    text-align: center;
+}
+
+.instructionsPage h1 {
+    color: #333;
+}
+
+.instructionsPage p {
+    color: #666;
+}

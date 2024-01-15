@@ -1,0 +1,21 @@
+.commentsSection {
+    padding: 20px;
+}
+
+.commentsSection .comment {
+    background-color: #f1f1f1;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.commentsSection textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+}
+
+.commentsSection button {
+    padding: 10px;
+}

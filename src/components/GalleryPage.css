@@ -1,0 +1,12 @@
+.galleryPage {
+    padding: 20px;
+    text-align: center;
+}
+
+.galleryPage h1 {
+    color: #333;
+}
+
+.galleryPage p {
+    color: #666;
+}

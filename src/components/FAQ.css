@@ -1,0 +1,26 @@
+.faq {
+    margin: 20px;
+    padding: 10px;
+}
+
+.faq-item {
+    margin-bottom: 10px;
+}
+
+.faq-question {
+    cursor: pointer;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border: 1px solid #ddd;
+}
+
+.faq-answer {
+    display: none;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-top: none;
+}
+
+.faq-answer.open {
+    display: block;
+}

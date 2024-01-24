@@ -18,7 +18,7 @@ function App() {
     <Router>
       <div className="App">
         <Header />
-        <nav style={{ paddingBottom: '10px', borderBottom: '1px solid #ccc' }}>
+        <nav style={{ paddingBottom: '10px', paddingTop: '10px', borderBottom: '1px solid #ccc' }}>
             <Link to="/" style={{ marginRight: '10px' }}>Головна</Link>|
             <Link to="/instructions" style={{ margin: '0 10px' }}>Інструкції</Link>|
             <Link to="/gallery" style={{ margin: '0 10px' }}>Галерея</Link>|

@@ -1,7 +1,7 @@
 import React from 'react';
 import './HomePage.css';
-import Slider from './Slider';
-import FAQ from './FAQ';
+import Slider from '../Slider/Slider';
+import FAQ from '../FAQ/FAQ';
 
 
 const HomePage = () => {

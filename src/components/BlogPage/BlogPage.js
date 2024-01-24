@@ -1,5 +1,5 @@
 import React from 'react';
-import SocialShareButtons from './SocialShareButtons';
+import SocialShareButtons from '../SocialShareButtons/SocialShareButtons';
 import './BlogPage.css';
 
 const BlogPage = () => {

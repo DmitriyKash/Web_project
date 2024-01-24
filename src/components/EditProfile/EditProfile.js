@@ -15,7 +15,7 @@ const EditProfile = () => {
     const handleSubmit = (e) => {
         e.preventDefault();
         console.log('Оновлені дані користувача:', userData);
-        // Тут можна додати логіку відправки оновлених даних на сервер
+        // Тут додати логіку відправки оновлених даних на сервер
     };
 
     return (

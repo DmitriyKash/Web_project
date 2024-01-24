@@ -1,16 +1,16 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import HomePage from './components/HomePage';
-import InstructionsPage from './components/InstructionsPage';
-import GalleryPage from './components/GalleryPage';
-import ReviewsPage from './components/ReviewsPage';
-import BlogPage from './components/BlogPage';
-import RegistrationForm from './components/RegistrationForm';
-import UserProfile from './components/UserProfile';
-import EditProfile from './components/EditProfile';
-import Notifications from './components/Notifications';
+import Header from './components/Header/Header';
+import Footer from './components/Footer/Footer';
+import HomePage from './components/HomePage/HomePage';
+import InstructionsPage from './components/InstructionsPage/InstructionsPage';
+import GalleryPage from './components/GalleryPage/GalleryPage';
+import ReviewsPage from './components/ReviewsPage/ReviewsPage';
+import BlogPage from './components/BlogPage/BlogPage';
+import RegistrationForm from './components/RegistrationForm/RegistrationForm';
+import UserProfile from './components/UserProfile/UserProfile';
+import EditProfile from './components/EditProfile/EditProfile';
+import Notifications from './components/Notifications/Notifications';
 import './App.css';
 
 function App() {
